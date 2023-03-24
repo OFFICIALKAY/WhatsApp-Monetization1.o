@@ -81,11 +81,13 @@ main .links{
     padding: 20px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
     height: 50px;
+    margin: 5px;
 }
 
 .social-me{
     background-color: #ffffff;
     margin-bottom: 20px;
+    margin-top: 5px;
     padding: 20px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
     margin-left: auto;

@@ -563,9 +563,17 @@ form .id:hover{
     @media only screen and (max-width: 576px) {
       .footer-container {
         max-width: 360px;
-        width: 98%;
+        width: 100%;
       }
       .show .click{
         font-size: 20px;
       }
+      #gk:hover{
+        background: #012e29;
+        border-bottom-right-radius: 20px;
+        border-top-left-radius: 10px;
+        color: #ffffff;
+        border: 2px solid antiquewhite;
+        width: 90px;
+        }
     }

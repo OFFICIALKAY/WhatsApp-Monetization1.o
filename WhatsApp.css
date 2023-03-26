@@ -53,6 +53,10 @@ header {
     margin: 20px 0;
   }
   
+.wa{
+  margin-right: 40px;
+}
+
   .hero h1 {
     font-size: 36px;
     margin-bottom: 10px;
@@ -146,10 +150,6 @@ border-bottom-right-radius: 20px;
 border-top-left-radius: 10px;
 color: #ffffff;
 border: 2px solid antiquewhite;
-}
-
-.wa{
-  margin-left: 30px;
 }
 
 .icon {
@@ -432,6 +432,7 @@ border: 2px solid antiquewhite;
       width: 100%;
       margin: 0 auto;
       box-sizing: border-box;
+      margin-left: 3px;
     }
     
     .footer-container {
